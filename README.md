@@ -84,7 +84,7 @@ Here you will find all my verified certifications with proof & links.
   <img src="certificates/sql_advanced.png" width="250px"><br>
   <b>SQL (Advanced)</b><br>
   <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <a href="https://www.hackerrank.com/certificates/iframe/93b156e6fb51">Verify</a>
 </td>
 <td align="center" width="50%">
   <img src="certificates/python_advanced.png" width="250px"><br>
