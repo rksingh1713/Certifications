@@ -12,7 +12,8 @@ Here you will find all my verified certifications with proof & links.
 <td align="center" width="50%">
   <img src="HackerRank certificates/software_engineer certificate.png" width="250px"><br>
   <b>Software Engineer</b><br>
-  [View Certificate](https://www.hackerrank.com/certificates/abcdef1234)
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Verify</a>
 </td>
 <td align="center" width="50%">
   <img src="certificates/python.png" width="250px"><br>
