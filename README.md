@@ -3,10 +3,6 @@
 Welcome to my Certifications Repository! 🚀  
 Here you will find all my verified certifications with proof & links.
 
----
-
-# 🎓 My Certifications
-
 <table>
 <tr>
 <td align="center" width="50%">
