@@ -51,10 +51,10 @@ Here you will find all my verified certifications with proof & links.
 
 <tr>
 <td align="center" width="50%">
-  <img src="certificates/css.png" width="250px"><br>
-  <b>CSS</b><br>
+  <img src="HackerRank certificates/r_intermediate certificate.png" width="250px"><br>
+  <b>R Programming</b><br>
   <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <a href="https://www.hackerrank.com/certificates/iframe/7bbd294c0773">Verify</a>
 </td>
 <td align="center" width="50%">
   <img src="certificates/html.png" width="250px"><br>
