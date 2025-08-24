@@ -57,10 +57,10 @@ Here you will find all my verified certifications with proof & links.
   <a href="https://www.hackerrank.com/certificates/iframe/7bbd294c0773">Verify</a>
 </td>
 <td align="center" width="50%">
-  <img src="certificates/html.png" width="250px"><br>
-  <b>HTML</b><br>
+  <img src="HackerRank certificates/python_basic certificate.png" width="250px"><br>
+  <b>Python</b><br>
   <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <a href="https://www.hackerrank.com/certificates/iframe/7dd6a243ed9a">Verify</a>
 </td>
 </tr>
 
