@@ -13,7 +13,7 @@ Here you will find all my verified certifications with proof & links.
 </td>
 <td align="center" width="50%">
   <img src="Samatrix certificates/DATA ANALYSIS USING PYTHON.png" width="250px"><br>
-  <b>DATA ANALYSIS</b><br>
+  <b>DATA ANALYSIS USING PYTHON</b><br>
   <sub>Issued by Samatrix </sub><br>
   <a href="https://verify.netcredential.com/roy8bbJCuT">Verify</a>
 </td>
