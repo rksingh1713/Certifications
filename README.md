@@ -96,10 +96,10 @@ Here you will find all my verified certifications with proof & links.
 
 <tr>
 <td align="center" width="50%">
-  <img src="certificates/ml.png" width="250px"><br>
-  <b>Machine Learning</b><br>
-  <sub>Issued by XYZ</sub><br>
-  <a href="https://example.com/certificate-link">Verify</a>
+  <img src="Samatrix certificates/FOUNDATION TO AI DATA SCIENCE & ANALYTICS.png" width="250px"><br>
+  <b>FOUNDATION TO AI DATA SCIENCE & ANALYTICS</b><br>
+  <sub>Issued by Samatrix</sub><br>
+  <a href="https://verify.netcredential.com/roy8n1bBAH">Verify</a>
 </td>
 <td align="center" width="50%">
   <img src="certificates/datascience.png" width="250px"><br>
