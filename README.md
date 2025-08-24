@@ -25,10 +25,10 @@ Here you will find all my verified certifications with proof & links.
 
 <tr>
 <td align="center" width="50%">
-  <img src="certificates/sql.png" width="250px"><br>
-  <b>SQL (Intermediate)</b><br>
-  <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <img src="Samatrix certificates/Advance Machine Learning.png" width="250px"><br>
+  <b>Advance Machine Learning</b><br>
+  <sub>Issued by Samatrix</sub><br>
+  <a href="https://verify.netcredential.com/roy8EZW4Jj">Verify</a>
 </td>
 <td align="center" width="50%">
   <img src="NPTEL certificates/Introduction To Internet Of Things.png" width="250px"><br>
