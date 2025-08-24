@@ -7,10 +7,11 @@ Here you will find all my verified certifications with proof & links.
 
 ## 📜 Certifications
 
+
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="HackerRank certificates/software_engineer certificate.png" width="250px"><br>
+  <img src="certificates/software_engineer.png" width="250px"><br>
   <b>Software Engineer</b><br>
   <sub>Issued by HackerRank</sub><br>
   <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Verify</a>
@@ -18,7 +19,98 @@ Here you will find all my verified certifications with proof & links.
 <td align="center" width="50%">
   <img src="certificates/python.png" width="250px"><br>
   <b>Python (Basic)</b><br>
-  [View Certificate](https://www.hackerrank.com/certificates/xyz12345)
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/xyz12345">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="certificates/sql.png" width="250px"><br>
+  <b>SQL (Intermediate)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+<td align="center" width="50%">
+  <img src="certificates/problem_solving.png" width="250px"><br>
+  <b>Problem Solving (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="certificates/java.png" width="250px"><br>
+  <b>Java (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+<td align="center" width="50%">
+  <img src="certificates/cpp.png" width="250px"><br>
+  <b>C++ (Basic)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="certificates/css.png" width="250px"><br>
+  <b>CSS</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+<td align="center" width="50%">
+  <img src="certificates/html.png" width="250px"><br>
+  <b>HTML</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="certificates/javascript.png" width="250px"><br>
+  <b>JavaScript (Intermediate)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+<td align="center" width="50%">
+  <img src="certificates/rest_api.png" width="250px"><br>
+  <b>REST API</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="certificates/sql_advanced.png" width="250px"><br>
+  <b>SQL (Advanced)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+<td align="center" width="50%">
+  <img src="certificates/python_advanced.png" width="250px"><br>
+  <b>Python (Intermediate)</b><br>
+  <sub>Issued by HackerRank</sub><br>
+  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="certificates/ml.png" width="250px"><br>
+  <b>Machine Learning</b><br>
+  <sub>Issued by XYZ</sub><br>
+  <a href="https://example.com/certificate-link">Verify</a>
+</td>
+<td align="center" width="50%">
+  <img src="certificates/datascience.png" width="250px"><br>
+  <b>Data Science</b><br>
+  <sub>Issued by XYZ</sub><br>
+  <a href="https://example.com/certificate-link">Verify</a>
 </td>
 </tr>
 </table>
