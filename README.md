@@ -102,10 +102,10 @@ Here you will find all my verified certifications with proof & links.
   <a href="https://verify.netcredential.com/roy8n1bBAH">Verify</a>
 </td>
 <td align="center" width="50%">
-  <img src="certificates/datascience.png" width="250px"><br>
-  <b>Data Science</b><br>
-  <sub>Issued by XYZ</sub><br>
-  <a href="https://example.com/certificate-link">Verify</a>
+  <img src="Samatrix certificates/STATISTICS USING PYTHON.png" width="250px"><br>
+  <b>STATISTICS USING PYTHON</b><br>
+  <sub>Issued by Samatrix</sub><br>
+  <a href="https://verify.netcredential.com/roy80jEMUK">Verify</a>
 </td>
 </tr>
 </table>
