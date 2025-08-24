@@ -46,10 +46,10 @@ Here you will find all my verified certifications with proof & links.
   <a href="https://verify.netcredential.com/roy8w1hFzk">Verify</a>
 </td>
 <td align="center" width="50%">
-  <img src="certificates/cpp.png" width="250px"><br>
-  <b>C++ (Basic)</b><br>
+  <img src="HackerRank certificates/problem_solving_intermediate certificate.png" width="250px"><br>
+  <b>Problem Solving Skill</b><br>
   <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <a href="https://www.hackerrank.com/certificates/iframe/b73c5a9bb463">Verify</a>
 </td>
 </tr>
 
