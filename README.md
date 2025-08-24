@@ -16,10 +16,10 @@ Here you will find all my verified certifications with proof & links.
   <a href="https://www.hackerrank.com/certificates/iframe/ec4fdff0f405">Verify</a>
 </td>
 <td align="center" width="50%">
-  <img src="certificates/python.png" width="250px"><br>
-  <b>Python (Basic)</b><br>
-  <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/xyz12345">Verify</a>
+  <img src="Samatrix certificates/DATA ANALYSIS USING PYTHON.png" width="250px"><br>
+  <b>DATA ANALYSIS</b><br>
+  <sub>Issued by Samatrix </sub><br>
+  <a href="https://verify.netcredential.com/roy8bbJCuT">Verify</a>
 </td>
 </tr>
 
