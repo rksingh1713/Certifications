@@ -40,10 +40,10 @@ Here you will find all my verified certifications with proof & links.
 
 <tr>
 <td align="center" width="50%">
-  <img src="certificates/java.png" width="250px"><br>
-  <b>Java (Basic)</b><br>
-  <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <img src="Samatrix certificates/Deep Learning.png" width="250px"><br>
+  <b>Deep Learning</b><br>
+  <sub>Issued by Samatrix</sub><br>
+  <a href="https://verify.netcredential.com/roy8w1hFzk">Verify</a>
 </td>
 <td align="center" width="50%">
   <img src="certificates/cpp.png" width="250px"><br>
