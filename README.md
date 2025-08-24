@@ -72,10 +72,10 @@ Here you will find all my verified certifications with proof & links.
   <a href="https://verify.netcredential.com/roy8aFsoRp">Verify</a>
 </td>
 <td align="center" width="50%">
-  <img src="certificates/rest_api.png" width="250px"><br>
-  <b>REST API</b><br>
-  <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <img src="Samatrix certificates/Machine Learning & Pattern Recognition.png" width="250px"><br>
+  <b>Machine Learning & Pattern Recognition</b><br>
+  <sub>Issued by Samatrix</sub><br>
+  <a href="https://verify.netcredential.com/roy8DKxQhy">Verify</a>
 </td>
 </tr>
 
