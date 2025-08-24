@@ -31,10 +31,10 @@ Here you will find all my verified certifications with proof & links.
   <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
 </td>
 <td align="center" width="50%">
-  <img src="certificates/problem_solving.png" width="250px"><br>
-  <b>Problem Solving (Basic)</b><br>
+  <img src="NPTEL certificates/Introduction To Internet Of Things.png" width="250px"><br>
+  <b>Internet Of Things</b><br>
   <sub>Issued by HackerRank</sub><br>
-  <a href="https://www.hackerrank.com/certificates/your-link">Verify</a>
+  <a href="https://www.linkedin.com/in/rksingh1713/details/certifications/1726155638746/single-media-viewer/?profileId=ACoAAEWe2hsBFpzy1emh9osqWbGDeoHLmadjnvo">Verify</a>
 </td>
 </tr>
 
