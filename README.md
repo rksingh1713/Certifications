@@ -10,6 +10,24 @@ Here you will find all my verified certifications with proof & links.
 <table>
 <tr>
 <td align="center" width="50%">
+  <img src="HackerRank certificates/software_engineer certificate.png" width="250px"><br>
+  <b>Software Engineer</b><br>
+  [View Certificate](https://www.hackerrank.com/certificates/abcdef1234)
+</td>
+<td align="center" width="50%">
+  <img src="certificates/python.png" width="250px"><br>
+  <b>Python (Basic)</b><br>
+  [View Certificate](https://www.hackerrank.com/certificates/xyz12345)
+</td>
+</tr>
+</table>
+
+---
+## 📜 Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
   <img src="C:\Users\rksin\OneDrive\Desktop\New folder\Certifications\HackerRank certificates\software_engineer certificate.png" width="250px"><br>
   <b>Software Engineer</b><br>
   [View Certificate](https://www.hackerrank.com/certificates/abcdef1234)
@@ -23,7 +41,6 @@ Here you will find all my verified certifications with proof & links.
 </table>
 
 ---
-
 ## 🏆 Badges
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-Certified-brightgreen?logo=hackerrank)  
