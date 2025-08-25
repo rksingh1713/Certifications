@@ -81,7 +81,7 @@ Here you will find all my verified certifications with proof & links.
 
 <tr>
 <td align="center" width="50%">
-  <img src="certificates/sql_advanced.png" width="250px"><br>
+  <img src="HackerRank certificates/SQL Advanced HackerRank.png" width="250px"><br>
   <b>SQL (Advanced)</b><br>
   <sub>Issued by HackerRank</sub><br>
   <a href="https://www.hackerrank.com/certificates/iframe/93b156e6fb51">Verify</a>
